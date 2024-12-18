@@ -34,7 +34,6 @@ Soy un desarrollador web con experiencia en **HTML5**, **CSS**, **JavaScript**, 
 - 🌍 [Portafolio Web](https://my-portfolio-c18biyjay-carlos-projects-6a4ede30.vercel.app/)  
 - 💼 [LinkedIn](https://linkedin.com/in/tu-perfil/)  
 - 📧 [carlosalazara43@gmail.com](mailto:carlosalazara43@gmail.com)  
-- 📞 +54 11 73600538  
 
 ---
 
