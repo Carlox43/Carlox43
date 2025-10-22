@@ -59,8 +59,8 @@ Me motiva crear cosas útiles y ver cómo cada proyecto me enseña algo nuevo.
 
 ### 📊 Mis estadísticas en GitHub
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlossalazara43&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossalazara43&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlox43&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlox43&layout=compact&theme=tokyonight" />
 </p>
 
 ---
