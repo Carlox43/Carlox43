@@ -1,53 +1,68 @@
-# 👋 ¡Hola! Soy Carlos José Salazar Ávila 🌟  
-### Desarrollador Front-End | Apasionado por el código limpio y las interfaces dinámicas
+<!-- Banner animado -->
+<h1 align="center">👋 ¡Hola! Soy <span style="color:#00bcd4;">Carlos José Salazar Ávila</span></h1>
+<h3 align="center">💻 Desarrollador Web Front-End</h3>
 
 ---
 
-🖥️ **Sobre mí:**  
-Soy un desarrollador web con experiencia en **HTML5**, **CSS**, **JavaScript**, **React**, **TypeScript** y **Tailwind CSS**. Me apasiona construir aplicaciones web interactivas y responsivas que brinden una excelente experiencia al usuario.  
-
-🚀 Actualmente, estoy perfeccionando mis habilidades en **React** y explorando nuevas tecnologías para seguir creciendo como desarrollador.
-
-💡 También he colaborado en proyectos voluntarios, lo que me ha permitido desarrollar habilidades de trabajo en equipo y comunicación.
+### 🌟 Sobre mí
+Soy un desarrollador web apasionado por el diseño limpio, el código claro y las interfaces funcionales.  
+Me encanta aprender nuevas tecnologías y transformar ideas en proyectos reales.  
+Mi objetivo es seguir creciendo profesionalmente y aportar valor en cada línea de código.
 
 ---
 
-### 🛠️ **Tecnologías y Herramientas**
-
-| Lenguajes       | Frameworks/Librerías | Herramientas          |
-|------------------|-----------------------|-----------------------|
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)   | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) |
-
----
-
-### 📊 **Mis estadísticas en GitHub**
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CarlosSalazar&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSalazar&layout=compact&theme=radical)
+### 🚀 Tecnologías que uso
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 ---
 
-### 🌐 **Encuéntrame en:**
-
-- 🌍 [Portafolio Web](https://my-portfolio-c18biyjay-carlos-projects-6a4ede30.vercel.app/)  
-- 💼 [LinkedIn](https://linkedin.com/in/tu-perfil/)  
-- 📧 [carlosalazara43@gmail.com](mailto:carlosalazara43@gmail.com)  
-
----
-
-### 🔥 **Proyectos Destacados**
-1. **[Portafolio Personal](https://my-portfolio-c18biyjay-carlos-projects-6a4ede30.vercel.app/):**  
-   Mi portafolio como desarrollador web, construido con **React**, **TypeScript** y **Tailwind CSS**.
-
-2. **Proyecto Voluntario:** (Descripción breve de algún proyecto voluntario en el que hayas trabajado).
+### 🛠️ Herramientas que utilizo
+<p align="center">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
 
 ---
 
-### 🎯 **Un poco más de mí:**
-- 🌟 Me encanta aprender cosas nuevas y enfrentar desafíos técnicos.  
-- 📚 Actualmente, estoy estudiando el desarrollo full-stack.  
-- ✨ Mi motivación diaria: *"La práctica hace al maestro"*.  
+### 📚 Actualmente estoy:
+- 🔹 Mejorando mi lógica de programación  
+- 🔹 Aprendiendo **Next.js**  
+- 🔹 Desarrollando proyectos personales para mi portafolio  
+- 🔹 Abierto a colaborar en proyectos front-end
 
-¡Gracias por visitar mi perfil! 🙌 Si te interesa colaborar en algún proyecto, no dudes en contactarme.
+---
+
+### 🌐 Portafolio y contacto
+📎 [Mi portafolio web](https://my-portfolio-c18biyjay-carlos-projects-6a4ede30.vercel.app/)  
+📧 [carlossalazara43@gmail.com](mailto:carlossalazara43@gmail.com)  
+📱 [WhatsApp](https://wa.me/541173600538)
+
+---
+
+### ✨ Un poco más de mí
+Soy una persona perseverante, autodidacta y curiosa.  
+Me motiva crear cosas útiles y ver cómo cada proyecto me enseña algo nuevo.  
+> 💬 *"El código no solo construye proyectos, también construye sueños."*
+
+---
+
+### 📊 Mis estadísticas en GitHub
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlossalazara43&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossalazara43&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+⭐ *Gracias por visitar mi perfil. Si te gusta mi trabajo, no dudes en seguirme o dejar una estrella en alguno de mis proyectos.*
