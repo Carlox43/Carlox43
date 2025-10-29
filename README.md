@@ -46,7 +46,6 @@ Mi objetivo es seguir creciendo profesionalmente y aportar valor en cada línea 
 ### 🌐 Portafolio y contacto
 📎 [Mi portafolio web](https://my-portfolio-c18biyjay-carlos-projects-6a4ede30.vercel.app/)  
 📧 [carlossalazara43@gmail.com](mailto:carlossalazara43@gmail.com)  
-📱 [WhatsApp](https://wa.me/541173600538)
 
 ---
 
