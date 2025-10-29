@@ -1,67 +1,69 @@
 <!-- Banner animado -->
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#00bcd4;">Carlos José Salazar Ávila</span></h1>
-<h3 align="center">💻 Desarrollador Web Front-End / FullStack</h3>
+<h3 align="center">💻 Desarrollador Web Full Stack | React • TypeScript • Node.js • Next.js</h3>
+
+<p align="center">
+  <a href="https://my-portfolio-c18biyjay-carlos-projects-6a4ede30.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portafolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:carlossalazara43@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Correo-carlossalazara43@gmail.com-0078D4?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ### 🌟 Sobre mí
-Soy un desarrollador web apasionado por el diseño limpio, el código claro y las interfaces funcionales.  
-Me encanta aprender nuevas tecnologías y transformar ideas en proyectos reales.  
-Mi objetivo es seguir creciendo profesionalmente y aportar valor en cada línea de código.
+Soy un **desarrollador web full stack** con enfoque en **React, TypeScript, Node.js y Next.js**.  
+Apasionado por el diseño limpio, el código eficiente y las interfaces modernas que brinden una excelente experiencia al usuario.  
+Me encanta aprender nuevas tecnologías y adaptarme rápidamente a los desafíos que surgen en cada proyecto.
+
+> 💪 Si hay alguna herramienta o tecnología que aún no domino, **no tengo problema en aprenderla**. Soy autodidacta, curioso y disfruto del proceso de mejora continua.
 
 ---
 
-### 🚀 Tecnologías que uso
+### 🧩 Tecnologías principales
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,git,github,vscode,vite,vercel,netlify&perline=6" />
 </p>
 
 ---
 
-### 🛠️ Herramientas que utilizo
-<p align="center">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
+### ⚙️ Herramientas y frameworks
+- **Frontend:** React, TypeScript, TailwindCSS, Vite, Next.js  
+- **Backend:** Node.js, Express, API REST, Supabase  
+- **Herramientas:** Git, GitHub, VSCode, Vercel, Netlify, Figma  
 
 ---
 
-### 📚 Actualmente estoy:
-- 🔹 Mejorando mi lógica de programación  
-- 🔹 Aprendiendo **Next.js**  
-- 🔹 Desarrollando proyectos personales para mi portafolio  
-- 🔹 Abierto a colaborar en proyectos front-end
+### 📚 Actualmente estoy
+- 🚀 Mejorando mis habilidades con **Next.js** y **Node.js**  
+- 🧠 Fortaleciendo mi lógica de programación y estructuras de datos  
+- 💡 Desarrollando proyectos personales y explorando IA aplicada al desarrollo web  
+- 🤝 Abierto a colaborar en proyectos **front-end o full stack**
 
 ---
 
-### 🌐 Portafolio y contacto
-📎 [Mi portafolio web](https://my-portfolio-c18biyjay-carlos-projects-6a4ede30.vercel.app/)  
-📧 [carlossalazara43@gmail.com](mailto:carlossalazara43@gmail.com)  
-
----
-
-### ✨ Un poco más de mí
-Soy una persona perseverante, autodidacta y curiosa.  
-Me motiva crear cosas útiles y ver cómo cada proyecto me enseña algo nuevo.  
-> 💬 *"El código no solo construye proyectos, también construye sueños."*
+### 🧠 Proyectos destacados
+- 🧃 [Buscador de bebidas (React + TypeScript + IA)](https://github.com/carlox43/buscador-bebidas)  
+- 💼 [Mi Portafolio personal](https://my-portfolio-c18biyjay-carlos-projects-6a4ede30.vercel.app/)  
+- ☁️ [API de clima con TypeScript y Tailwind](https://github.com/carlox43/api-clima)
 
 ---
 
 ### 📊 Mis estadísticas en GitHub
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlox43&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlox43&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlox43&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-⭐ *Gracias por visitar mi perfil. Si te gusta mi trabajo, no dudes en seguirme o dejar una estrella en alguno de mis proyectos.*
+### ✨ Un poco más de mí
+Soy **perseverante, autodidacta y curioso**.  
+Disfruto construir soluciones funcionales y aprender algo nuevo en cada proyecto.  
+> 💬 *"El código no solo construye proyectos, también construye sueños."*
+
+---
+
+⭐ *Gracias por visitar mi perfil. Si te gusta mi trabajo, seguime o dejá una ⭐ en alguno de mis proyectos.*
