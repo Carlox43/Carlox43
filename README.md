@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#00bcd4;">Carlos José Salazar Ávila</span></h1>
-<h3 align="center">💻 Desarrollador Web Front-End</h3>
+<h3 align="center">💻 Desarrollador Web Front-End / FullStack</h3>
 
 ---
 
