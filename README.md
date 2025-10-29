@@ -51,14 +51,6 @@ Me encanta aprender nuevas tecnologías y adaptarme rápidamente a los desafíos
 
 ---
 
-### 📊 Mis estadísticas en GitHub
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlox43&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlox43&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### ✨ Un poco más de mí
 Soy **perseverante, autodidacta y curioso**.  
 Disfruto construir soluciones funcionales y aprender algo nuevo en cada proyecto.  
